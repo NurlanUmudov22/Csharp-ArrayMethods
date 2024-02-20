@@ -1,0 +1,14 @@
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\bin\Debug\net6.0\Csharp-ArrayMethods.exe
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\bin\Debug\net6.0\Csharp-ArrayMethods.deps.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\bin\Debug\net6.0\Csharp-ArrayMethods.runtimeconfig.json
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\bin\Debug\net6.0\Csharp-ArrayMethods.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\bin\Debug\net6.0\Csharp-ArrayMethods.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.AssemblyInfo.cs
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\refint\Csharp-ArrayMethods.dll
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.pdb
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\Csharp-ArrayMethods.genruntimeconfig.cache
+C:\Users\nurlanmu\Desktop\Csharp hometask\Csharp-ArrayMethods\Csharp-ArrayMethods\Csharp-ArrayMethods\obj\Debug\net6.0\ref\Csharp-ArrayMethods.dll
